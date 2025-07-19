@@ -1,12 +1,74 @@
-# React + Vite
+# 🌤️ Weather App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A sleek and simple weather application built using **React** and **Vite**. It fetches real-time weather data based on the user’s input and displays temperature, condition, and location details in a minimal UI.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📸 Screenshots
 
-## Expanding the ESLint configuration
+![App Screenshot](screenshot.png) <!-- Replace with your actual screenshot file -->
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🔧 Features
+
+- 🌍 Search weather by city name
+- 🌡️ Real-time temperature and weather conditions
+- 🎨 Responsive and clean UI
+- ⚡ Built with Vite for fast performance
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend**: React, Vite
+- **API**: [OpenWeatherMap](https://openweathermap.org/api)
+- **Styling**: CSS
+
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the repository
+```bash
+git clone git@github.com:abhh10/Weather-App-React.git
+cd Weather-App-React
+2. Install dependencies
+bash
+Copy
+Edit
+npm install
+3. Set up environment variable
+Create a .env file in the root with your weather API key:
+
+ini
+Copy
+Edit
+VITE_APP_ID=your_api_key_here
+You can get your key from OpenWeatherMap.
+
+4. Start the dev server
+bash
+Copy
+Edit
+npm run dev
+📦 Build
+bash
+Copy
+Edit
+npm run build
+📁 Folder Structure
+bash
+Copy
+Edit
+/src
+  ├── assets/         # Images, icons
+  ├── components/     # React components
+  ├── App.jsx
+  ├── index.css
+  └── main.jsx
+
+🙋‍♂️ Author
+Abhiraj Karpe
+GitHub • LinkedIn
+
