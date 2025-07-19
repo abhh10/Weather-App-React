@@ -62,12 +62,15 @@ npm run build
   └── main.jsx
 ```
 
-## 🙋‍♂️ Author
+## 🌐 Live Demo
+
+Check out the deployed app on Vercel:  
+**[weather-app-react-lemon-kappa.vercel.app](https://weather-app-react-lemon-kappa.vercel.app/)**
 
 ## 🙋‍♂️ Author
 
 Abhiraj Karpe  
 [GitHub](https://github.com/abhh10) • [LinkedIn](https://www.linkedin.com/in/abhiraj-karpe-829a7a250/)
 
-
 Sources
+
