@@ -64,7 +64,10 @@ npm run build
 
 ## 🙋‍♂️ Author
 
+## 🙋‍♂️ Author
+
 Abhiraj Karpe  
-[GitHub](https://github.com/abhh10) -  [LinkedIn]([https://linkedin.com/in/abhh10](https://www.linkedin.com/in/abhiraj-karpe-829a7a250/))
+[GitHub](https://github.com/abhh10) • [LinkedIn](https://www.linkedin.com/in/abhiraj-karpe-829a7a250/)
+
 
 Sources
